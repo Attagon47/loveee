@@ -1,0 +1,49 @@
+html,body {
+    padding: auto;
+    margin: auto;
+    background-color: lightgray;
+}
+
+header {
+    background-color: gray;
+    padding: 10px;
+}
+
+.image {
+    width: 550px;
+}
+
+.image0 {
+    padding: auto;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+
+.contain {
+    max-width: 700px;
+    margin: auto;
+}
+
+.box {
+    background-color: white;
+    margin: 20px;
+    padding: 50px;
+    font-size: 15px;
+}
+
+.button {
+    background-color: gray;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.head-page a {
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    padding: 20px;
+    margin: 30px;
+}
+

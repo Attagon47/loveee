@@ -1,0 +1,17 @@
+html,body {
+    margin: auto;
+    padding: auto;
+}
+
+.box {
+    text-align: center;
+    color: pink;
+    font-size: 50px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: pink;
+    color: white;
+    padding: 20px;
+}
